@@ -5,13 +5,13 @@ Our link to the published project website is here:
 https://catherineanme.github.io/CS1710FP/
 
 You may find our code under the file name: 
-FILL IN 
+FILL IN
 
 You may find our dataset in this github repository under the file name: 
-namibia_election_results.xlsx
+[namibia_election_results.xlsx](https://github.com/catherineanme/CS1710FP/blob/main/namibia_election_results.xlsx)
 
 You may find our data information file under the name: 
-FILL IN
+[datadescription.md](https://github.com/catherineanme/CS1710FP/blob/main/datadescription.md)
 
 You may find our video at this YouTube private unlisted link: 
 FILL IN
