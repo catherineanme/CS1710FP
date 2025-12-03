@@ -4,9 +4,6 @@ This is our CS1710 Final Project html repository for the 2025 Final Project.
 Our link to the published project website is here: 
 https://catherineanme.github.io/CS1710FP/
 
-You may find our code under the file name: 
-FILL IN
-
 You may find our dataset in this github repository under the file name: 
 [namibia_election_results.xlsx](https://github.com/catherineanme/CS1710FP/blob/main/namibia_election_results.xlsx)
 
