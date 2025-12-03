@@ -2,7 +2,7 @@
 This is our CS1710 Final Project html repository for the 2025 Final Project. 
 
 Our link to the published project website is here: 
-FILL IN
+https://jnberkman.github.io/CS1710FP/
 
 You may find our code under the file name: 
 FILL IN 
