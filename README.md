@@ -30,8 +30,8 @@ FINALLY, here is an explanation on how to run our code, what libraries we used, 
 
 **Option 1: Using Python (Recommended)**
 ```bash
-# Download the project from GitHub and navigate to the project directory
-cd "./CS1710FP"
+# Download the .zip from GitHub and unzip the .zip file
+# Navigate to the project directory and run
 
 # Python 3
 python3 -m http.server 8000
@@ -46,6 +46,8 @@ python3 -m http.server 8000
 
 **Option 3: Using Node.js**
 ```bash
+# Navigate to the project directory and run
+
 npx serve
 ```
 
