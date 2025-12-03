@@ -11,7 +11,7 @@ You may find our data information file under the name:
 [datadescription.md](https://github.com/catherineanme/CS1710FP/blob/main/datadescription.md)
 
 You may find our video at this YouTube private unlisted link: 
-FILL IN
+https://youtu.be/_TcTtB1dqt4
 
 You may find our Process Book throughout the various milestones of this project at this open Google Doc link: 
 https://docs.google.com/document/d/1pW_gdDB3F231XNcuoE8zqqxzXGftUiIOpmafbTzGC5M/edit?usp=sharing
