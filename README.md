@@ -16,9 +16,6 @@ FILL IN
 You may find our Process Book throughout the various milestones of this project at this open Google Doc link: 
 https://docs.google.com/document/d/1pW_gdDB3F231XNcuoE8zqqxzXGftUiIOpmafbTzGC5M/edit?usp=sharing
 
-FINALLY, here is an explanation on how to run our code, what libraries we used, and other information about this project: 
-
----
 
 ## How to Run This Project
 
@@ -51,7 +48,7 @@ python3 -m http.server 8000
 npx serve
 ```
 
-> ⚠️ **Important:** You cannot simply open `index.html` directly in a browser by double-clicking. The application uses `fetch()` to load the GeoJSON data, which requires a local server due to CORS restrictions.
+> **Important:** You cannot simply open `index.html` directly in a browser by double-clicking. The application uses `fetch()` to load the GeoJSON data, which requires a local server due to CORS restrictions.
 
 ---
 
